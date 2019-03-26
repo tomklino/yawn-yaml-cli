@@ -1,5 +1,5 @@
 {
-  "name": "yawn-yaml-cli",
+  "name": "yawn-yaml-cli-ultra",
   "version": "0.1.1",
   "description": "A command-line YAML editor that preserves comments and styling.",
   "main": "YAMLEditor.js",
